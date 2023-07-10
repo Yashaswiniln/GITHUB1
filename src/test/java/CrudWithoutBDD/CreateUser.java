@@ -8,6 +8,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 public class CreateUser {
+	//create user
 
 	@Test
 	public void CreateUser()
