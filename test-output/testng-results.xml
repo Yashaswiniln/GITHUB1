@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T12:49:27 IST" name="Default suite" finished-at="2023-07-03T12:49:29 IST" duration-ms="2475">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T12:49:27 IST" name="Default test" finished-at="2023-07-03T12:49:29 IST" duration-ms="2475">
+      <class name="SERIALIZATION.EmloyeeSerialization">
+        <test-method signature="empser()[pri:0, instance:SERIALIZATION.EmloyeeSerialization@4ef37659]" started-at="2023-07-03T12:49:27 IST" name="empser" finished-at="2023-07-03T12:49:29 IST" duration-ms="2001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empser -->
+      </class> <!-- SERIALIZATION.EmloyeeSerialization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
